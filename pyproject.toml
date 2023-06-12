@@ -1,7 +1,7 @@
 [project]
 name = "teal-api"
 version = "0.1.0"
-description = "Add a short description here"
+description = "The fork of Teal API"
 authors = [
     { name = "Comamoca", email = "comamoca.dev@gmail.com" }
 ]
